@@ -10,7 +10,7 @@ find-pascal <filename>
 
 Where filename is a ColecoVision ROM.
 
-Output only happens if Pascal entry points are found. If Pascal entry points are found, the name of the filename is diplayed, along with the used entry points.
+Output only happens if Pascal entry points are found. If Pascal entry points are found, the name of the ROM is displayed, along with the used entry points.
 
 ```sh
 /home/thomc/Downloads/Donkey Kong (1982) (Coleco) [24K].rom:
